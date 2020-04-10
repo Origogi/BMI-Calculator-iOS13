@@ -208,6 +208,7 @@
                     </view>
                     <connections>
                         <outlet property="adviceLabel" destination="9IV-CT-mxw" id="d3L-2o-3G7"/>
+                        <outlet property="background" destination="r83-N3-Ash" id="jkP-wZ-fWI"/>
                         <outlet property="bmiLabel" destination="VU9-2W-Sd5" id="gPa-eK-3PX"/>
                     </connections>
                 </viewController>
